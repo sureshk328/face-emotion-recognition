@@ -1,4 +1,4 @@
-## Movie Review Sentiment Regression ##
+## Face Emotion Detection ##
 Dataset used to train the model: 
 </br>
 https://www.kaggle.com/datasets/msambare/fer2013
@@ -7,6 +7,7 @@ FER2013 Dataset Based Facial Emotion Recognition
 
 
 </br>
+Model: Keras Neural Network
 </br>
 Collaborators:
 </br>
